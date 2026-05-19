@@ -36,7 +36,7 @@ print(car.description())
 class ElectricCar: Car {
     var batteryLevel: Double = 100
 
-    init(brand: String) {
+    override init(brand: String) {
         super.init(brand: brand)
     }
 

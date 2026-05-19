@@ -1,0 +1,1 @@
+@rpath/swift_inheritance_demo.debug.dylib
